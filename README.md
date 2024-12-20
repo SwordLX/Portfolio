@@ -1,6 +1,5 @@
 # Portfolio
 - **Author:** Jiangwen(John) Nong
-- **Period:** 2019~2025
 - **Email Address:** <jnong@wpi.edu>
 
 ## Vanity
